@@ -1,0 +1,2 @@
+# MyFirstBlog
+Django Tutorial
