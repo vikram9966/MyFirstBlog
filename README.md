@@ -1,2 +1,2 @@
 # MyFirstBlog
-Django Tutorial
+Django Tutorial :)
